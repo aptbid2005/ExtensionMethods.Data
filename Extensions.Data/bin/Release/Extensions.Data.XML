@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Extensions.Data</name>
+    </assembly>
+    <members>
+        <member name="T:Extensions.Data.ExecuteMethods">
+            <summary>
+            Class ExecuteMethods.
+            </summary>
+        </member>
+        <member name="M:Extensions.Data.ExecuteMethods.ExecuteNonQuery(System.Data.IDbConnection,System.String,System.Data.IDataParameter[])">
+            <summary>
+            Encapsulates ExecuteNonQuery code as an extension of the IDBConnection Class
+            </summary>
+            <param name="connection">Connection to the database</param>
+            <param name="query">Query to execute at the database</param>
+            <param name="parameters">Any parameters needed for query to execute</param>
+        </member>
+        <member name="M:Extensions.Data.ExecuteMethods.ExecuteScalar(System.Data.IDbConnection,System.String,System.Data.IDataParameter[])">
+            <summary>
+            Encapsulates ExecuteScalar code as an extension of the IDBConnection Class
+            </summary>
+            <param name="connection">Connection to the database</param>
+            <param name="query">Query to execute at the database</param>
+            <param name="parameters">Any parameters needed for query to execute</param>
+        </member>
+        <member name="M:Extensions.Data.ExecuteMethods.ExecuteDataReader``1(System.Data.IDbConnection,System.String,System.Func{System.Data.IDataReader,``0},System.Data.IDataParameter[])">
+            <summary>
+            Encapsulates ExecuteDataReader code as an extension of the IDBConnection Class
+            </summary>
+            <typeparam name="T">Type you would like returned</typeparam>
+            <param name="connection">Connection to the database</param>
+            <param name="query">Query to execute at the database</param>
+            <param name="dr">DataReader</param>
+            <param name="parameters">Any parameters needed for query to execute</param>
+            <returns></returns>
+        </member>
+        <member name="M:Extensions.Data.ExecuteMethods.GetValue``1(System.Data.IDataReader,System.String)">
+            <summary>
+            Encapsulates GetValue method as an extension of DataReader
+            </summary>
+            <typeparam name="T">Type you want returned</typeparam>
+            <param name="rdr">DataReader</param>
+            <param name="columnName">Column Name</param>
+        </member>
+    </members>
+</doc>

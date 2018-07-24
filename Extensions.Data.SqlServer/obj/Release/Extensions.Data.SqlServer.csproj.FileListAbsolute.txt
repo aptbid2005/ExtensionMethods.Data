@@ -1,0 +1,7 @@
+C:\Source\Extensions\Extensions.Data\Extensions.Data\Extensions.Data.SqlServer\bin\Release\Extensions.Data.SqlServer.XML
+C:\Source\Extensions\Extensions.Data\Extensions.Data\Extensions.Data.SqlServer\bin\Release\Extensions.Data.SqlServer.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data\Extensions.Data.SqlServer\bin\Release\Extensions.Data.SqlServer.pdb
+C:\Source\Extensions\Extensions.Data\Extensions.Data\Extensions.Data.SqlServer\bin\Release\System.Data.SqlClient.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data\Extensions.Data.SqlServer\obj\Release\Extensions.Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\Source\Extensions\Extensions.Data\Extensions.Data\Extensions.Data.SqlServer\obj\Release\Extensions.Data.SqlServer.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data\Extensions.Data.SqlServer\obj\Release\Extensions.Data.SqlServer.pdb

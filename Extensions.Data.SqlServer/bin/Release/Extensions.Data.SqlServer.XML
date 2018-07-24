@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Extensions.Data.SqlServer</name>
+    </assembly>
+    <members>
+        <member name="T:Extensions.Data.SqlServer.ExecuteMethods">
+            <summary>
+            Class ExecuteMethods.
+            </summary>
+        </member>
+        <member name="M:Extensions.Data.SqlServer.ExecuteMethods.ExecuteDataSet(System.Data.SqlClient.SqlConnection,System.String,System.Data.SqlClient.SqlParameter[])">
+            <summary>
+            Executes query against an Sql Server database and returns a dataset.
+            </summary>
+            <param name="connection">Connection to the database</param>
+            <param name="query">The query.</param>
+            <param name="parameters">Any parameters required by the query</param>
+            <returns>DataSet.</returns>
+        </member>
+        <member name="M:Extensions.Data.SqlServer.ExecuteMethods.ExecuteDataTable(System.Data.SqlClient.SqlConnection,System.String,System.Data.SqlClient.SqlParameter[])">
+            <summary>
+            Executes query against an Sql Server database and returns a data table.
+            </summary>
+            <param name="connection">Connection to the database</param>
+            <param name="query">The query.</param>
+            <param name="parameters">Any parameters required by the query</param>
+            <returns>DataTable.</returns>
+        </member>
+        <member name="M:Extensions.Data.SqlServer.ExecuteMethods.IsStoredProcedure(System.String)">
+            <summary>
+            Determines whether [is stored procedure] [the specified query].
+            </summary>
+            <param name="query">The query.</param>
+            <returns>CommandType.</returns>
+        </member>
+    </members>
+</doc>

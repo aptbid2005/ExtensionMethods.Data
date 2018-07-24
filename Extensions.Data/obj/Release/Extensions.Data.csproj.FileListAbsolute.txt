@@ -1,0 +1,5 @@
+C:\Source\Extensions\Extensions.Data\Extensions.Data\bin\Release\Extensions.Data.XML
+C:\Source\Extensions\Extensions.Data\Extensions.Data\bin\Release\Extensions.Data.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data\bin\Release\Extensions.Data.pdb
+C:\Source\Extensions\Extensions.Data\Extensions.Data\obj\Release\Extensions.Data.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data\obj\Release\Extensions.Data.pdb

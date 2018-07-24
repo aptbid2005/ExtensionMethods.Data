@@ -1,0 +1,6 @@
+C:\Source\Extensions\Extensions.Data\Extensions.Data.Oracle\bin\Release\Extensions.Data.Oracle.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data.Oracle\bin\Release\Extensions.Data.Oracle.pdb
+C:\Source\Extensions\Extensions.Data\Extensions.Data.Oracle\bin\Release\Oracle.DataAccess.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data.Oracle\obj\Release\Extensions.Data.Oracle.dll
+C:\Source\Extensions\Extensions.Data\Extensions.Data.Oracle\obj\Release\Extensions.Data.Oracle.pdb
+C:\Source\Extensions\Extensions.Data\Extensions.Data.Oracle\bin\Release\Extensions.Data.Oracle.XML
